@@ -14,7 +14,13 @@
 <a href="#">링크추가~</a>
 
 <p>test3에 user1이 멀 추가함</p>
+<<<<<<< HEAD
 
 <a href="#">충돌 ㄱㄱ~</a>
 </body>
+=======
+<a href="#">나도한다 링크추가 ㅡㅡ</a>
+<p>user1에서 진행합</p>
+
+>>>>>>> branch 'master' of https://github.com/aram2ra9/testRE.git
 </html>
