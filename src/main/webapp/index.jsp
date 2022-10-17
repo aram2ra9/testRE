@@ -13,6 +13,12 @@
  <a href ="/views/test01.jsp">페이지이동</a>
   <a href ="/views/test02.jsp">페이지이동2</a>
  <p>내용 또또 추가</p>
+ <div class="liginDiv">
+ <h1> 로그인로직생성 </h1>
+ <br>
+ </div>
+ <br>
+ <p>테스트추가 </p>
   
 </body>
 </html>
